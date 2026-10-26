@@ -1,0 +1,802 @@
+[
+  {
+    "Titolo": "Storm Chronicles",
+    "Genere": "RPG",
+    "OreDiGioco": 107,
+    "Prezzo": 0.0,
+    "DataUscita": "2026-06-02",
+    "Voto": 6.2
+  },
+  {
+    "Titolo": "Galaxy Quest Zero",
+    "Genere": "Sport",
+    "OreDiGioco": 117,
+    "Prezzo": 79.99,
+    "DataUscita": "2026-07-13",
+    "Voto": 8.3
+  },
+  {
+    "Titolo": "Shadow Chronicles",
+    "Genere": "Avventura",
+    "OreDiGioco": 28,
+    "Prezzo": 69.99,
+    "DataUscita": "2020-10-21",
+    "Voto": 9.3
+  },
+  {
+    "Titolo": "Lost Chronicles",
+    "Genere": "Avventura",
+    "OreDiGioco": 19,
+    "Prezzo": 9.99,
+    "DataUscita": "2025-12-16",
+    "Voto": 5.9
+  },
+  {
+    "Titolo": "Pixel Island",
+    "Genere": "Azione",
+    "OreDiGioco": 100,
+    "Prezzo": 0.0,
+    "DataUscita": "2026-03-26",
+    "Voto": 8.8
+  },
+  {
+    "Titolo": "Cyber Kingdom",
+    "Genere": "Puzzle",
+    "OreDiGioco": 123,
+    "Prezzo": 14.99,
+    "DataUscita": "2012-11-10",
+    "Voto": 8.6
+  },
+  {
+    "Titolo": "Turbo Kingdom",
+    "Genere": "Corse",
+    "OreDiGioco": 109,
+    "Prezzo": 9.99,
+    "DataUscita": "2018-06-26",
+    "Voto": 5.6
+  },
+  {
+    "Titolo": "Neon Quest Zero",
+    "Genere": "Strategia",
+    "OreDiGioco": 93,
+    "Prezzo": 69.99,
+    "DataUscita": "2025-02-08",
+    "Voto": 6.6
+  },
+  {
+    "Titolo": "Wild Frontier",
+    "Genere": "Azione",
+    "OreDiGioco": 54,
+    "Prezzo": 39.99,
+    "DataUscita": "2022-05-12",
+    "Voto": 7.5
+  },
+  {
+    "Titolo": "Frozen Rebellion",
+    "Genere": "Puzzle",
+    "OreDiGioco": 107,
+    "Prezzo": 14.99,
+    "DataUscita": "2017-09-03",
+    "Voto": 7.4
+  },
+  {
+    "Titolo": "Crystal Valley",
+    "Genere": "Avventura",
+    "OreDiGioco": 101,
+    "Prezzo": 14.99,
+    "DataUscita": "2025-03-20",
+    "Voto": 9.2
+  },
+  {
+    "Titolo": "Neon Rebellion",
+    "Genere": "Corse",
+    "OreDiGioco": 133,
+    "Prezzo": 9.99,
+    "DataUscita": "2026-06-07",
+    "Voto": 4.7
+  },
+  {
+    "Titolo": "Galaxy Protocol",
+    "Genere": "RPG",
+    "OreDiGioco": 31,
+    "Prezzo": 49.99,
+    "DataUscita": "2026-11-08",
+    "Voto": 7.6
+  },
+  {
+    "Titolo": "Galaxy Legends",
+    "Genere": "Puzzle",
+    "OreDiGioco": 134,
+    "Prezzo": 69.99,
+    "DataUscita": "2014-04-24",
+    "Voto": 4.6
+  },
+  {
+    "Titolo": "Cyber Quest Zero",
+    "Genere": "Corse",
+    "OreDiGioco": 145,
+    "Prezzo": 9.99,
+    "DataUscita": "2015-01-26",
+    "Voto": 7.1
+  },
+  {
+    "Titolo": "Pixel Quest Zero",
+    "Genere": "Corse",
+    "OreDiGioco": 83,
+    "Prezzo": 49.99,
+    "DataUscita": "2016-07-13",
+    "Voto": 4.0
+  },
+  {
+    "Titolo": "Turbo Island",
+    "Genere": "Strategia",
+    "OreDiGioco": 59,
+    "Prezzo": 14.99,
+    "DataUscita": "2017-12-04",
+    "Voto": 4.1
+  },
+  {
+    "Titolo": "Cyber Valley",
+    "Genere": "Sport",
+    "OreDiGioco": 35,
+    "Prezzo": 14.99,
+    "DataUscita": "2022-09-27",
+    "Voto": 6.5
+  },
+  {
+    "Titolo": "Cyber Island",
+    "Genere": "Puzzle",
+    "OreDiGioco": 44,
+    "Prezzo": 19.99,
+    "DataUscita": "2017-12-31",
+    "Voto": 8.1
+  },
+  {
+    "Titolo": "Frozen Odyssey",
+    "Genere": "Sport",
+    "OreDiGioco": 143,
+    "Prezzo": 49.99,
+    "DataUscita": "2024-12-09",
+    "Voto": 8.2
+  },
+  {
+    "Titolo": "Pixel Protocol",
+    "Genere": "Azione",
+    "OreDiGioco": 12,
+    "Prezzo": 49.99,
+    "DataUscita": "2024-02-15",
+    "Voto": 8.6
+  },
+  {
+    "Titolo": "Iron Protocol",
+    "Genere": "Sport",
+    "OreDiGioco": 94,
+    "Prezzo": 59.99,
+    "DataUscita": "2013-05-25",
+    "Voto": 8.0
+  },
+  {
+    "Titolo": "Cyber Chronicles",
+    "Genere": "Strategia",
+    "OreDiGioco": 102,
+    "Prezzo": 14.99,
+    "DataUscita": "2026-05-01",
+    "Voto": 6.0
+  },
+  {
+    "Titolo": "Shadow Frontier",
+    "Genere": "Sport",
+    "OreDiGioco": 45,
+    "Prezzo": 0.0,
+    "DataUscita": "2026-08-29",
+    "Voto": 6.4
+  },
+  {
+    "Titolo": "Silent Chronicles",
+    "Genere": "Corse",
+    "OreDiGioco": 96,
+    "Prezzo": 29.99,
+    "DataUscita": "2014-01-02",
+    "Voto": 6.9
+  },
+  {
+    "Titolo": "Ancient Rebellion",
+    "Genere": "Corse",
+    "OreDiGioco": 4,
+    "Prezzo": 49.99,
+    "DataUscita": "2020-10-07",
+    "Voto": 9.6
+  },
+  {
+    "Titolo": "Ancient Legends",
+    "Genere": "Sport",
+    "OreDiGioco": 134,
+    "Prezzo": 29.99,
+    "DataUscita": "2025-03-30",
+    "Voto": 7.1
+  },
+  {
+    "Titolo": "Storm Valley",
+    "Genere": "RPG",
+    "OreDiGioco": 129,
+    "Prezzo": 19.99,
+    "DataUscita": "2026-08-16",
+    "Voto": 9.7
+  },
+  {
+    "Titolo": "Storm Arena",
+    "Genere": "Puzzle",
+    "OreDiGioco": 136,
+    "Prezzo": 39.99,
+    "DataUscita": "2017-03-31",
+    "Voto": 8.6
+  },
+  {
+    "Titolo": "Iron Arena",
+    "Genere": "Avventura",
+    "OreDiGioco": 107,
+    "Prezzo": 49.99,
+    "DataUscita": "2027-04-18",
+    "Voto": 5.7
+  },
+  {
+    "Titolo": "Storm Runner",
+    "Genere": "Sport",
+    "OreDiGioco": 27,
+    "Prezzo": 69.99,
+    "DataUscita": "2025-11-01",
+    "Voto": 7.2
+  },
+  {
+    "Titolo": "Frozen Tactics",
+    "Genere": "Strategia",
+    "OreDiGioco": 78,
+    "Prezzo": 14.99,
+    "DataUscita": "2019-06-03",
+    "Voto": 7.1
+  },
+  {
+    "Titolo": "Wild Island",
+    "Genere": "Sport",
+    "OreDiGioco": 105,
+    "Prezzo": 0.0,
+    "DataUscita": "2026-04-20",
+    "Voto": 9.7
+  },
+  {
+    "Titolo": "Dragon Valley",
+    "Genere": "RPG",
+    "OreDiGioco": 21,
+    "Prezzo": 39.99,
+    "DataUscita": "2012-01-19",
+    "Voto": 6.0
+  },
+  {
+    "Titolo": "Wild Legends",
+    "Genere": "Azione",
+    "OreDiGioco": 25,
+    "Prezzo": 79.99,
+    "DataUscita": "2025-12-18",
+    "Voto": 8.6
+  },
+  {
+    "Titolo": "Iron Racers",
+    "Genere": "Corse",
+    "OreDiGioco": 37,
+    "Prezzo": 29.99,
+    "DataUscita": "2022-05-28",
+    "Voto": 7.7
+  },
+  {
+    "Titolo": "Silent Valley",
+    "Genere": "Corse",
+    "OreDiGioco": 22,
+    "Prezzo": 49.99,
+    "DataUscita": "2021-01-10",
+    "Voto": 7.6
+  },
+  {
+    "Titolo": "Iron Chronicles",
+    "Genere": "Puzzle",
+    "OreDiGioco": 136,
+    "Prezzo": 29.99,
+    "DataUscita": "2024-02-24",
+    "Voto": 9.5
+  },
+  {
+    "Titolo": "Neon Kingdom",
+    "Genere": "Avventura",
+    "OreDiGioco": 93,
+    "Prezzo": 59.99,
+    "DataUscita": "2014-09-12",
+    "Voto": 8.4
+  },
+  {
+    "Titolo": "Crystal Island",
+    "Genere": "RPG",
+    "OreDiGioco": 9,
+    "Prezzo": 29.99,
+    "DataUscita": "2016-07-17",
+    "Voto": 9.5
+  },
+  {
+    "Titolo": "Neon Island",
+    "Genere": "Sport",
+    "OreDiGioco": 9,
+    "Prezzo": 29.99,
+    "DataUscita": "2026-10-14",
+    "Voto": 7.8
+  },
+  {
+    "Titolo": "Shadow Odyssey",
+    "Genere": "Strategia",
+    "OreDiGioco": 115,
+    "Prezzo": 0.0,
+    "DataUscita": "2026-07-17",
+    "Voto": 9.6
+  },
+  {
+    "Titolo": "Silent Legends",
+    "Genere": "Strategia",
+    "OreDiGioco": 51,
+    "Prezzo": 39.99,
+    "DataUscita": "2014-02-13",
+    "Voto": 4.7
+  },
+  {
+    "Titolo": "Neon Arena",
+    "Genere": "Puzzle",
+    "OreDiGioco": 112,
+    "Prezzo": 39.99,
+    "DataUscita": "2021-06-24",
+    "Voto": 8.9
+  },
+  {
+    "Titolo": "Crystal Racers",
+    "Genere": "Puzzle",
+    "OreDiGioco": 58,
+    "Prezzo": 49.99,
+    "DataUscita": "2026-06-29",
+    "Voto": 8.6
+  },
+  {
+    "Titolo": "Iron Legends",
+    "Genere": "Strategia",
+    "OreDiGioco": 59,
+    "Prezzo": 49.99,
+    "DataUscita": "2026-10-15",
+    "Voto": 6.4
+  },
+  {
+    "Titolo": "Pixel Kingdom",
+    "Genere": "Strategia",
+    "OreDiGioco": 13,
+    "Prezzo": 69.99,
+    "DataUscita": "2012-03-23",
+    "Voto": 6.7
+  },
+  {
+    "Titolo": "Turbo Valley",
+    "Genere": "Avventura",
+    "OreDiGioco": 23,
+    "Prezzo": 49.99,
+    "DataUscita": "2013-09-13",
+    "Voto": 7.0
+  },
+  {
+    "Titolo": "Silent Quest Zero",
+    "Genere": "Puzzle",
+    "OreDiGioco": 107,
+    "Prezzo": 59.99,
+    "DataUscita": "2013-02-03",
+    "Voto": 5.3
+  },
+  {
+    "Titolo": "Iron Island",
+    "Genere": "Avventura",
+    "OreDiGioco": 131,
+    "Prezzo": 79.99,
+    "DataUscita": "2026-09-19",
+    "Voto": 6.4
+  },
+  {
+    "Titolo": "Iron Rebellion",
+    "Genere": "Avventura",
+    "OreDiGioco": 77,
+    "Prezzo": 49.99,
+    "DataUscita": "2015-07-28",
+    "Voto": 8.7
+  },
+  {
+    "Titolo": "Dragon Runner",
+    "Genere": "Avventura",
+    "OreDiGioco": 123,
+    "Prezzo": 9.99,
+    "DataUscita": "2022-08-06",
+    "Voto": 5.7
+  },
+  {
+    "Titolo": "Crystal Chronicles",
+    "Genere": "RPG",
+    "OreDiGioco": 54,
+    "Prezzo": 0.0,
+    "DataUscita": "2026-02-22",
+    "Voto": 4.6
+  },
+  {
+    "Titolo": "Neon Odyssey",
+    "Genere": "Corse",
+    "OreDiGioco": 112,
+    "Prezzo": 59.99,
+    "DataUscita": "2014-05-22",
+    "Voto": 9.7
+  },
+  {
+    "Titolo": "Crystal Rebellion",
+    "Genere": "Sport",
+    "OreDiGioco": 123,
+    "Prezzo": 29.99,
+    "DataUscita": "2016-03-17",
+    "Voto": 8.6
+  },
+  {
+    "Titolo": "Pixel Arena",
+    "Genere": "Strategia",
+    "OreDiGioco": 95,
+    "Prezzo": 9.99,
+    "DataUscita": "2026-08-04",
+    "Voto": 7.5
+  },
+  {
+    "Titolo": "Ancient Tactics",
+    "Genere": "Strategia",
+    "OreDiGioco": 21,
+    "Prezzo": 9.99,
+    "DataUscita": "2014-04-24",
+    "Voto": 5.9
+  },
+  {
+    "Titolo": "Dragon Protocol",
+    "Genere": "Strategia",
+    "OreDiGioco": 120,
+    "Prezzo": 14.99,
+    "DataUscita": "2019-07-19",
+    "Voto": 6.9
+  },
+  {
+    "Titolo": "Wild Rebellion",
+    "Genere": "Avventura",
+    "OreDiGioco": 139,
+    "Prezzo": 0.0,
+    "DataUscita": "2026-03-07",
+    "Voto": 7.9
+  },
+  {
+    "Titolo": "Galaxy Kingdom",
+    "Genere": "Sport",
+    "OreDiGioco": 112,
+    "Prezzo": 29.99,
+    "DataUscita": "2025-07-03",
+    "Voto": 6.4
+  },
+  {
+    "Titolo": "Ancient Chronicles",
+    "Genere": "Azione",
+    "OreDiGioco": 143,
+    "Prezzo": 14.99,
+    "DataUscita": "2025-11-07",
+    "Voto": 9.0
+  },
+  {
+    "Titolo": "Dragon Frontier",
+    "Genere": "Puzzle",
+    "OreDiGioco": 50,
+    "Prezzo": 69.99,
+    "DataUscita": "2027-05-28",
+    "Voto": 5.8
+  },
+  {
+    "Titolo": "Storm Odyssey",
+    "Genere": "Sport",
+    "OreDiGioco": 66,
+    "Prezzo": 9.99,
+    "DataUscita": "2019-12-28",
+    "Voto": 6.9
+  },
+  {
+    "Titolo": "Crystal Protocol",
+    "Genere": "RPG",
+    "OreDiGioco": 28,
+    "Prezzo": 29.99,
+    "DataUscita": "2014-08-12",
+    "Voto": 8.3
+  },
+  {
+    "Titolo": "Frozen Kingdom",
+    "Genere": "Puzzle",
+    "OreDiGioco": 15,
+    "Prezzo": 9.99,
+    "DataUscita": "2018-08-05",
+    "Voto": 7.6
+  },
+  {
+    "Titolo": "Crystal Frontier",
+    "Genere": "Sport",
+    "OreDiGioco": 140,
+    "Prezzo": 59.99,
+    "DataUscita": "2026-04-17",
+    "Voto": 8.0
+  },
+  {
+    "Titolo": "Lost Arena",
+    "Genere": "Sport",
+    "OreDiGioco": 83,
+    "Prezzo": 9.99,
+    "DataUscita": "2016-06-10",
+    "Voto": 4.5
+  },
+  {
+    "Titolo": "Shadow Protocol",
+    "Genere": "Sport",
+    "OreDiGioco": 138,
+    "Prezzo": 14.99,
+    "DataUscita": "2025-05-08",
+    "Voto": 5.6
+  },
+  {
+    "Titolo": "Crystal Runner",
+    "Genere": "Sport",
+    "OreDiGioco": 32,
+    "Prezzo": 19.99,
+    "DataUscita": "2015-05-11",
+    "Voto": 5.9
+  },
+  {
+    "Titolo": "Wild Valley",
+    "Genere": "Corse",
+    "OreDiGioco": 35,
+    "Prezzo": 49.99,
+    "DataUscita": "2015-11-15",
+    "Voto": 6.9
+  },
+  {
+    "Titolo": "Ancient Valley",
+    "Genere": "Avventura",
+    "OreDiGioco": 127,
+    "Prezzo": 49.99,
+    "DataUscita": "2024-11-30",
+    "Voto": 8.4
+  },
+  {
+    "Titolo": "Cyber Legends",
+    "Genere": "Puzzle",
+    "OreDiGioco": 150,
+    "Prezzo": 39.99,
+    "DataUscita": "2019-02-27",
+    "Voto": 7.0
+  },
+  {
+    "Titolo": "Storm Racers",
+    "Genere": "Avventura",
+    "OreDiGioco": 59,
+    "Prezzo": 39.99,
+    "DataUscita": "2021-09-30",
+    "Voto": 8.8
+  },
+  {
+    "Titolo": "Shadow Arena",
+    "Genere": "RPG",
+    "OreDiGioco": 85,
+    "Prezzo": 0.0,
+    "DataUscita": "2026-04-26",
+    "Voto": 9.2
+  },
+  {
+    "Titolo": "Shadow Legends",
+    "Genere": "Strategia",
+    "OreDiGioco": 25,
+    "Prezzo": 9.99,
+    "DataUscita": "2013-07-10",
+    "Voto": 6.4
+  },
+  {
+    "Titolo": "Neon Legends",
+    "Genere": "Strategia",
+    "OreDiGioco": 81,
+    "Prezzo": 69.99,
+    "DataUscita": "2016-04-06",
+    "Voto": 9.5
+  },
+  {
+    "Titolo": "Silent Arena",
+    "Genere": "Sport",
+    "OreDiGioco": 140,
+    "Prezzo": 29.99,
+    "DataUscita": "2015-12-17",
+    "Voto": 5.2
+  },
+  {
+    "Titolo": "Storm Quest Zero",
+    "Genere": "RPG",
+    "OreDiGioco": 144,
+    "Prezzo": 19.99,
+    "DataUscita": "2023-10-31",
+    "Voto": 7.0
+  },
+  {
+    "Titolo": "Dragon Island",
+    "Genere": "Avventura",
+    "OreDiGioco": 108,
+    "Prezzo": 29.99,
+    "DataUscita": "2018-11-19",
+    "Voto": 5.6
+  },
+  {
+    "Titolo": "Pixel Chronicles",
+    "Genere": "Strategia",
+    "OreDiGioco": 27,
+    "Prezzo": 49.99,
+    "DataUscita": "2025-11-24",
+    "Voto": 5.7
+  },
+  {
+    "Titolo": "Silent Racers",
+    "Genere": "Puzzle",
+    "OreDiGioco": 90,
+    "Prezzo": 29.99,
+    "DataUscita": "2027-02-10",
+    "Voto": 5.6
+  },
+  {
+    "Titolo": "Crystal Legends",
+    "Genere": "Sport",
+    "OreDiGioco": 144,
+    "Prezzo": 9.99,
+    "DataUscita": "2018-06-09",
+    "Voto": 7.0
+  },
+  {
+    "Titolo": "Frozen Runner",
+    "Genere": "RPG",
+    "OreDiGioco": 52,
+    "Prezzo": 29.99,
+    "DataUscita": "2026-03-31",
+    "Voto": 7.4
+  },
+  {
+    "Titolo": "Silent Island",
+    "Genere": "Strategia",
+    "OreDiGioco": 62,
+    "Prezzo": 79.99,
+    "DataUscita": "2027-06-14",
+    "Voto": 4.6
+  },
+  {
+    "Titolo": "Ancient Arena",
+    "Genere": "Puzzle",
+    "OreDiGioco": 80,
+    "Prezzo": 19.99,
+    "DataUscita": "2012-03-30",
+    "Voto": 9.1
+  },
+  {
+    "Titolo": "Iron Odyssey",
+    "Genere": "RPG",
+    "OreDiGioco": 18,
+    "Prezzo": 49.99,
+    "DataUscita": "2027-01-19",
+    "Voto": 9.3
+  },
+  {
+    "Titolo": "Ancient Frontier",
+    "Genere": "Avventura",
+    "OreDiGioco": 150,
+    "Prezzo": 39.99,
+    "DataUscita": "2026-03-28",
+    "Voto": 9.1
+  },
+  {
+    "Titolo": "Neon Runner",
+    "Genere": "Puzzle",
+    "OreDiGioco": 20,
+    "Prezzo": 79.99,
+    "DataUscita": "2024-08-11",
+    "Voto": 5.5
+  },
+  {
+    "Titolo": "Frozen Racers",
+    "Genere": "Corse",
+    "OreDiGioco": 65,
+    "Prezzo": 39.99,
+    "DataUscita": "2017-12-14",
+    "Voto": 6.5
+  },
+  {
+    "Titolo": "Lost Tactics",
+    "Genere": "RPG",
+    "OreDiGioco": 115,
+    "Prezzo": 9.99,
+    "DataUscita": "2025-12-23",
+    "Voto": 7.0
+  },
+  {
+    "Titolo": "Lost Valley",
+    "Genere": "Strategia",
+    "OreDiGioco": 68,
+    "Prezzo": 39.99,
+    "DataUscita": "2023-10-29",
+    "Voto": 7.2
+  },
+  {
+    "Titolo": "Lost Runner",
+    "Genere": "RPG",
+    "OreDiGioco": 91,
+    "Prezzo": 39.99,
+    "DataUscita": "2025-12-31",
+    "Voto": 4.2
+  },
+  {
+    "Titolo": "Galaxy Odyssey",
+    "Genere": "Azione",
+    "OreDiGioco": 2,
+    "Prezzo": 69.99,
+    "DataUscita": "2021-11-22",
+    "Voto": 8.1
+  },
+  {
+    "Titolo": "Turbo Legends",
+    "Genere": "Avventura",
+    "OreDiGioco": 15,
+    "Prezzo": 9.99,
+    "DataUscita": "2021-09-20",
+    "Voto": 7.2
+  },
+  {
+    "Titolo": "Pixel Rebellion",
+    "Genere": "Strategia",
+    "OreDiGioco": 94,
+    "Prezzo": 59.99,
+    "DataUscita": "2017-08-21",
+    "Voto": 4.5
+  },
+  {
+    "Titolo": "Silent Runner",
+    "Genere": "Azione",
+    "OreDiGioco": 72,
+    "Prezzo": 9.99,
+    "DataUscita": "2024-06-15",
+    "Voto": 6.7
+  },
+  {
+    "Titolo": "Pixel Runner",
+    "Genere": "Strategia",
+    "OreDiGioco": 4,
+    "Prezzo": 29.99,
+    "DataUscita": "2018-03-29",
+    "Voto": 9.7
+  },
+  {
+    "Titolo": "Neon Protocol",
+    "Genere": "RPG",
+    "OreDiGioco": 79,
+    "Prezzo": 29.99,
+    "DataUscita": "2016-05-11",
+    "Voto": 6.6
+  },
+  {
+    "Titolo": "Silent Protocol",
+    "Genere": "Azione",
+    "OreDiGioco": 70,
+    "Prezzo": 69.99,
+    "DataUscita": "2012-10-05",
+    "Voto": 9.4
+  },
+  {
+    "Titolo": "Shadow Tactics",
+    "Genere": "RPG",
+    "OreDiGioco": 24,
+    "Prezzo": 69.99,
+    "DataUscita": "2025-12-07",
+    "Voto": 7.9
+  }
+]
