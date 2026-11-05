@@ -111,7 +111,111 @@ namespace AllenamentoLambda
 
         private void btTrovaOreGioco_Click(object sender, EventArgs e)
         {
+            if (videogiochi == null || videogiochi.Count == 0)
+            {
+                MessageBox.Show("Nessun videogioco presente in lista.");
+                return;
+            }
 
+            int elementoTrovato;
+
+            if (rbPiu.Checked)
+            {
+                elementoTrovato = videogiochi.Max(x => x.OreDiGioco);
+            }
+            else
+            {
+                elementoTrovato = videogiochi.Min(x => x.OreDiGioco);
+            }
+            MessageBox.Show($"Ore di gioco: {elementoTrovato}");
+        }
+
+        private void btTrovaPerzzo_Click(object sender, EventArgs e)
+        {
+            if (videogiochi == null || videogiochi.Count == 0)
+            {
+                MessageBox.Show("Nessun videogioco presente in lista.");
+                return;
+            }
+
+            double elementoTrovato;
+
+            if (rbPiu.Checked)
+            {
+                elementoTrovato = videogiochi.Max(x => x.Prezzo);
+            }
+            else
+            {
+                elementoTrovato = videogiochi.Min(x => x.Prezzo);
+            }
+            MessageBox.Show($"Prezzo: {elementoTrovato}");
+        }
+
+        private void btTrovaDataUscita_Click(object sender, EventArgs e)
+        {
+            if (videogiochi == null || videogiochi.Count == 0)
+            {
+                MessageBox.Show("Nessun videogioco presente in lista.");
+                return;
+            }
+
+            DateTime elementoTrovato;
+
+            if (rbPiu.Checked)
+            {
+                elementoTrovato = videogiochi.Max(x => x.DataUscita);
+            }
+            else
+            {
+                elementoTrovato = videogiochi.Min(x => x.DataUscita);
+            }
+            MessageBox.Show($"Data di uscita: {elementoTrovato.ToString("dd/MM/yyyy")}");
+        }
+
+        private void btTrovaRPG_Click(object sender, EventArgs e)
+        {
+            DateTime dataAttuale = DateTime.Now;
+
+            List<Videogioco> risultati = videogiochi.FindAll(x =>
+                x.Genere == "RPG" &&
+                x.DataUscita.Year == dataAttuale.Year &&
+                x.DataUscita <= dataAttuale
+            );
+
+            CaricaDatiInListView(risultati);
+        }
+
+        private void btGratis_Click(object sender, EventArgs e)
+        {
+            List<Videogioco> risultati = videogiochi.FindAll(x =>
+                x.Prezzo == 0
+            );
+
+            CaricaDatiInListView(risultati);
+
+            int conteggio = risultati.Count;
+
+            MessageBox.Show($"Giochi gratuiti trovati: {conteggio}");
+        }
+
+        private void btNeon_Click(object sender, EventArgs e)
+        {
+            List<Videogioco> risultati = videogiochi.FindAll(x =>
+                x.Titolo.StartsWith("Neon")
+            );
+
+            CaricaDatiInListView(risultati);
+        }
+
+        private void btAumentaPrezzi_Click(object sender, EventArgs e)
+        {
+            List<Videogioco> risultati = videogiochi.FindAll(x =>
+                x.Prezzo == 0 &&
+                x.DataUscita >= DateTime.Now.AddMonths(-12) &&
+                x.DataUscita <= DateTime.Now
+            );
+
+            CaricaDatiInListView(risultati);
         }
     }
 }

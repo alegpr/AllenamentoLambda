@@ -43,12 +43,16 @@
             rbDecrescente = new RadioButton();
             rbCrescente = new RadioButton();
             groupBox2 = new GroupBox();
+            btTrovaRPG = new Button();
+            btGratis = new Button();
+            btNeon = new Button();
             btTrovaTitolo = new Button();
             btTrovaDataUscita = new Button();
             btTrovaOreGioco = new Button();
             btTrovaPerzzo = new Button();
             rbMeno = new RadioButton();
             rbPiu = new RadioButton();
+            btAumentaPrezzi = new Button();
             groupBox1.SuspendLayout();
             groupBox2.SuspendLayout();
             SuspendLayout();
@@ -176,6 +180,9 @@
             // 
             // groupBox2
             // 
+            groupBox2.Controls.Add(btTrovaRPG);
+            groupBox2.Controls.Add(btGratis);
+            groupBox2.Controls.Add(btNeon);
             groupBox2.Controls.Add(btTrovaTitolo);
             groupBox2.Controls.Add(btTrovaDataUscita);
             groupBox2.Controls.Add(btTrovaOreGioco);
@@ -184,10 +191,39 @@
             groupBox2.Controls.Add(rbPiu);
             groupBox2.Location = new Point(181, 394);
             groupBox2.Name = "groupBox2";
-            groupBox2.Size = new Size(155, 280);
+            groupBox2.Size = new Size(303, 280);
             groupBox2.TabIndex = 6;
             groupBox2.TabStop = false;
             groupBox2.Text = "Trova";
+            // 
+            // btTrovaRPG
+            // 
+            btTrovaRPG.Location = new Point(153, 117);
+            btTrovaRPG.Name = "btTrovaRPG";
+            btTrovaRPG.Size = new Size(141, 34);
+            btTrovaRPG.TabIndex = 11;
+            btTrovaRPG.Text = "Genere RPG";
+            btTrovaRPG.UseVisualStyleBackColor = true;
+            btTrovaRPG.Click += btTrovaRPG_Click;
+            // 
+            // btGratis
+            // 
+            btGratis.Location = new Point(153, 157);
+            btGratis.Name = "btGratis";
+            btGratis.Size = new Size(141, 34);
+            btGratis.TabIndex = 10;
+            btGratis.Text = "Trova Gratis";
+            btGratis.UseVisualStyleBackColor = true;
+            // 
+            // btNeon
+            // 
+            btNeon.Location = new Point(153, 197);
+            btNeon.Name = "btNeon";
+            btNeon.Size = new Size(141, 34);
+            btNeon.TabIndex = 9;
+            btNeon.Text = "Trova Neon[...]";
+            btNeon.UseVisualStyleBackColor = true;
+            btNeon.Click += btNeon_Click;
             // 
             // btTrovaTitolo
             // 
@@ -207,6 +243,7 @@
             btTrovaDataUscita.TabIndex = 8;
             btTrovaDataUscita.Text = "Data di Uscita";
             btTrovaDataUscita.UseVisualStyleBackColor = true;
+            btTrovaDataUscita.Click += btTrovaDataUscita_Click;
             // 
             // btTrovaOreGioco
             // 
@@ -226,6 +263,7 @@
             btTrovaPerzzo.TabIndex = 6;
             btTrovaPerzzo.Text = "Prezzo";
             btTrovaPerzzo.UseVisualStyleBackColor = true;
+            btTrovaPerzzo.Click += btTrovaPerzzo_Click;
             // 
             // rbMeno
             // 
@@ -249,11 +287,22 @@
             rbPiu.Text = "Più";
             rbPiu.UseVisualStyleBackColor = true;
             // 
+            // btAumentaPrezzi
+            // 
+            btAumentaPrezzi.Location = new Point(490, 407);
+            btAumentaPrezzi.Name = "btAumentaPrezzi";
+            btAumentaPrezzi.Size = new Size(141, 63);
+            btAumentaPrezzi.TabIndex = 7;
+            btAumentaPrezzi.Text = "Aumenta Prezzi 10%";
+            btAumentaPrezzi.UseVisualStyleBackColor = true;
+            btAumentaPrezzi.Click += btAumentaPrezzi_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1143, 750);
+            Controls.Add(btAumentaPrezzi);
             Controls.Add(groupBox2);
             Controls.Add(groupBox1);
             Controls.Add(lvVideogiochi);
@@ -292,5 +341,9 @@
         private Button btTrovaDataUscita;
         private Button btTrovaOreGioco;
         private Button btTrovaPerzzo;
+        private Button btTrovaRPG;
+        private Button btGratis;
+        private Button btNeon;
+        private Button btAumentaPrezzi;
     }
 }
